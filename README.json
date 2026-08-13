@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Arkenfox User.js",
+          "description": "Privacy and security-related browser extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T07:48:28Z",
+            "owner": "arkenfox",
+            "repo": "user.js",
+            "stars": 12779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nothing Private",
+          "description": "Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-09T23:14:50Z",
+            "owner": "gautamkrishnar",
+            "repo": "nothing-private",
+            "stars": 2234
+          }
+        }
+      ],
+      "title": "Privacy"
+    },
+    {
+      "description": "LearnCpp.com - A comprehensive resource for learning C++ programming.",
+      "items": [],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Build Your Own X",
+          "description": "GitHub repository providing guides on building your favorite technologies from scratch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 539184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projects-Solutions on GitHub",
+          "description": "GitHub repository providing project-based coding challenges for learning programming through practical applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-10T17:41:43Z",
+            "owner": "karan",
+            "repo": "Projects-Solutions",
+            "stars": 4384
+          }
+        }
+      ],
+      "title": "Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:34.740Z",
+    "original_repository": "atakanaltok/awesome-useful-websites",
+    "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
+    "enhanced_repository": "enhansome/enhansome-useful-websites",
+    "enhanced_repository_description": null,
+    "title": "Awesome Useful Websites with stars"
+  }
+}
