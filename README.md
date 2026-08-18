@@ -1,6 +1,6 @@
 # Awesome Useful Websites with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,707 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,139 | 🐛 103 | 📅 2026-06-30
 
 <br>
 
@@ -1350,7 +1350,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 * [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
-* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,054 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
+* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,104 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
 * [Menimagerie](https://www.menimagerie.com/) - Explore concepts in theoretical computer science, from the number system to Cantor infinities, Godel's theorems, and automat.
 * [Computer Science Library](https://www.compscilib.com/) - Platform aiding in mastering concepts in computer science and math courses with automated step-by-step solutions and practice problems.
@@ -1406,7 +1406,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 * [PromptPerfect](https://promptperfect.jina.ai/) - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs), and LMOps.
 * [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
-* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,293 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
+* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,291 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
 * [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
 * [OpenAI Cookbook](https://cookbook.openai.com/) - Cookbook by OpenAI providing practical guides for working with AI.
 * [Prompting Guide](https://www.promptingguide.ai/) - Resource for creating effective prompts for AI models.
@@ -1515,7 +1515,7 @@ Each website is included only once. Some websites can fall into multiple categor
 #### APIs
 
 * [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
-* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 462,515 | 🐛 1,681 | 🌐 Python | 📅 2026-08-17 - Collective list of free APIs for use in software and web development
+* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 463,513 | 🐛 1,686 | 🌐 Python | 📅 2026-08-17 - Collective list of free APIs for use in software and web development
 * [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 * [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
 * [Stripe API Documentation](https://stripe.com/docs/api) - API documentation of Stripe
@@ -1671,7 +1671,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Privacy
 
-* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,785 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-17 - Privacy and security-related browser extensions.
+* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,789 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-17 - Privacy and security-related browser extensions.
 * [Nothing Private](https://www.nothingprivate.ml/) - Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it [here](https://github.com/gautamkrishnar/nothing-private) ⭐ 2,282 | 🐛 4 | 🌐 JavaScript | 📅 2025-12-09.
 * [ToS;DR](https://tosdr.org/) - Terms of Service; Didn't Read (short: ToS;DR).
 * [TrustPage](https://trustpage.com/directory) - Find and compare security policies for thousands of companies to choose the right software and services based on security policies sourced from around the web.
@@ -1710,7 +1710,7 @@ Each website is included only once. Some websites can fall into multiple categor
 * [Degooglisons Internet](https://degooglisons-internet.org/en/) - Alternatives to FAANG.
 * [AccountKiller](https://www.accountkiller.com/en/home) - AccountKiller collects direct links and deleting instructions to make account termination easy.
 * [JustDeleteMe](https://backgroundchecks.org/justdeleteme/) - A directory of direct links to delete your account from web services.
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 31,998 | 🐛 781 | 🌐 Java | 📅 2026-08-16 - Ad-free app for watching YouTube videos on Android TV boxes.
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,015 | 🐛 765 | 🌐 Java | 📅 2026-08-17 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [Libredirect](https://libredirect.github.io/) - Web extension that redirects YouTube, Twitter, Instagram requests to alternative privacy-friendly frontends and backends.
 
 ### Ad Blocker
@@ -1905,7 +1905,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Programming Languages
 
-* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 394,584 | 🐛 79 | 🌐 Python | 📅 2026-08-16 - Free and open source programming books
+* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 394,659 | 🐛 84 | 🌐 Python | 📅 2026-08-16 - Free and open source programming books
 * [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 * [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
@@ -1989,8 +1989,8 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Projects
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 540,323 | 🐛 630 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
-* [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,385 | 🐛 229 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 540,662 | 🐛 632 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
+* [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,384 | 🐛 229 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 * [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 * [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
 
@@ -2151,4 +2151,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
