@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T06:11:03Z",
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12792
+            "stars": 12794
           }
         },
         {
@@ -53,7 +53,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 541069
+                "stars": 541133
               }
             },
             {
@@ -139,8 +139,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:51:01.412Z",
+    "last_updated": "2026-08-19T13:00:02.122Z",
     "original_repository": "atakanaltok/awesome-useful-websites",
+    "original_repository_id": 489265215,
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
     "enhanced_repository": "enhansome/enhansome-useful-websites",
     "enhanced_repository_description": null,

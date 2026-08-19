@@ -1,6 +1,6 @@
 # Awesome Useful Websites with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,570 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,671 | 🐛 102 | 📅 2026-08-18
 
 <br>
 
@@ -1350,7 +1350,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 * [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
-* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,153 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
+* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,161 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
 * [Menimagerie](https://www.menimagerie.com/) - Explore concepts in theoretical computer science, from the number system to Cantor infinities, Godel's theorems, and automat.
 * [Computer Science Library](https://www.compscilib.com/) - Platform aiding in mastering concepts in computer science and math courses with automated step-by-step solutions and practice problems.
@@ -1515,7 +1515,7 @@ Each website is included only once. Some websites can fall into multiple categor
 #### APIs
 
 * [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
-* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 465,134 | 🐛 1,700 | 🌐 Python | 📅 2026-08-18 - Collective list of free APIs for use in software and web development
+* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 465,422 | 🐛 1,704 | 🌐 Python | 📅 2026-08-18 - Collective list of free APIs for use in software and web development
 * [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 * [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
 * [Stripe API Documentation](https://stripe.com/docs/api) - API documentation of Stripe
@@ -1671,7 +1671,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Privacy
 
-* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,792 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-17 - Privacy and security-related browser extensions.
+* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,794 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-17 - Privacy and security-related browser extensions.
 * [Nothing Private](https://www.nothingprivate.ml/) - Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it [here](https://github.com/gautamkrishnar/nothing-private) ⭐ 2,282 | 🐛 4 | 🌐 JavaScript | 📅 2025-12-09.
 * [ToS;DR](https://tosdr.org/) - Terms of Service; Didn't Read (short: ToS;DR).
 * [TrustPage](https://trustpage.com/directory) - Find and compare security policies for thousands of companies to choose the right software and services based on security policies sourced from around the web.
@@ -1710,7 +1710,7 @@ Each website is included only once. Some websites can fall into multiple categor
 * [Degooglisons Internet](https://degooglisons-internet.org/en/) - Alternatives to FAANG.
 * [AccountKiller](https://www.accountkiller.com/en/home) - AccountKiller collects direct links and deleting instructions to make account termination easy.
 * [JustDeleteMe](https://backgroundchecks.org/justdeleteme/) - A directory of direct links to delete your account from web services.
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,048 | 🐛 759 | 🌐 Java | 📅 2026-08-18 - Ad-free app for watching YouTube videos on Android TV boxes.
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,056 | 🐛 760 | 🌐 Java | 📅 2026-08-18 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [Libredirect](https://libredirect.github.io/) - Web extension that redirects YouTube, Twitter, Instagram requests to alternative privacy-friendly frontends and backends.
 
 ### Ad Blocker
@@ -1905,7 +1905,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Programming Languages
 
-* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 394,745 | 🐛 81 | 🌐 Python | 📅 2026-08-18 - Free and open source programming books
+* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 394,765 | 🐛 81 | 🌐 Python | 📅 2026-08-18 - Free and open source programming books
 * [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 * [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
@@ -1983,13 +1983,13 @@ Each website is included only once. Some websites can fall into multiple categor
 
 * [CTF101](https://ctf101.org/) - Platform providing educational resources for those new to Capture The Flag competitions.
 * [CTFtime](https://ctftime.org/) - Archive of Capture The Flag events, teams, and timelines.
-* [Google CTF on GitHub](https://github.com/google/google-ctf) ⭐ 5,006 | 🐛 1 | 🌐 Python | 📅 2026-02-11 - Google's Capture The Flag competition resources available on GitHub.
+* [Google CTF on GitHub](https://github.com/google/google-ctf) ⭐ 5,007 | 🐛 1 | 🌐 Python | 📅 2026-02-11 - Google's Capture The Flag competition resources available on GitHub.
 * [Meusec CTF Resources](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/) - Meusec's collection of Capture The Flag (CTF) resources in cybersecurity.
 * [Trail of Bits - CTF Guide](https://trailofbits.github.io/ctf/) - Guide by Trail of Bits providing insights and tips for participating in Capture The Flag competitions.
 
 ### Projects
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 541,069 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 541,133 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
 * [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,384 | 🐛 229 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 * [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 * [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
