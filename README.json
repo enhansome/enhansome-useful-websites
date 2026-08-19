@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82208127,
             "language": "JavaScript",
             "last_commit": "2026-08-17T06:11:03Z",
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12789
+            "stars": 12792
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76684607,
             "language": "JavaScript",
             "last_commit": "2025-12-09T23:14:50Z",
             "owner": "gautamkrishnar",
@@ -35,47 +37,109 @@
       "title": "Privacy"
     },
     {
-      "description": "LearnCpp.com - A comprehensive resource for learning C++ programming.",
-      "items": [],
-      "title": "C++"
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Build Your Own X",
+              "description": "GitHub repository providing guides on building your favorite technologies from scratch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132750724,
+                "language": "Markdown",
+                "last_commit": "2026-07-14T19:25:58Z",
+                "owner": "codecrafters-io",
+                "repo": "build-your-own-x",
+                "stars": 541069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Projects-Solutions on GitHub",
+              "description": "GitHub repository providing project-based coding challenges for learning programming through practical applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11791030,
+                "language": null,
+                "last_commit": "2024-07-10T17:41:43Z",
+                "owner": "karan",
+                "repo": "Projects-Solutions",
+                "stars": 4384
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
+        }
+      ],
+      "title": "Coding Practice / Competitive Programming"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Build Your Own X",
-          "description": "GitHub repository providing guides on building your favorite technologies from scratch.",
+          "title": "If you are a site owner and believe that your site is not described accurately, please raise an issue",
+          "description": ".",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Markdown",
-            "last_commit": "2026-07-14T19:25:58Z",
-            "owner": "codecrafters-io",
-            "repo": "build-your-own-x",
-            "stars": 540662
+            "id": 489265215,
+            "language": null,
+            "last_commit": "2026-05-28T09:10:24Z",
+            "owner": "atakanaltok",
+            "repo": "awesome-useful-websites",
+            "stars": 1249
           }
         },
         {
           "node_type": "item",
-          "title": "Projects-Solutions on GitHub",
-          "description": "GitHub repository providing project-based coding challenges for learning programming through practical applications.",
+          "title": "If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please raise an issue",
+          "description": ".",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489265215,
             "language": null,
-            "last_commit": "2024-07-10T17:41:43Z",
-            "owner": "karan",
-            "repo": "Projects-Solutions",
-            "stars": 4384
+            "last_commit": "2026-05-28T09:10:24Z",
+            "owner": "atakanaltok",
+            "repo": "awesome-useful-websites",
+            "stars": 1249
           }
+        },
+        {
+          "node_type": "group",
+          "title": "If you want to add a new category or website:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Create a pull request",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489265215,
+                "language": null,
+                "last_commit": "2026-05-28T09:10:24Z",
+                "owner": "atakanaltok",
+                "repo": "awesome-useful-websites",
+                "stars": 1249
+              }
+            }
+          ]
         }
       ],
-      "title": "Projects"
+      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:50:17.533Z",
+    "last_updated": "2026-08-19T08:51:01.412Z",
     "original_repository": "atakanaltok/awesome-useful-websites",
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
     "enhanced_repository": "enhansome/enhansome-useful-websites",
