@@ -1,6 +1,6 @@
 # Awesome Useful Websites with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,956 | 🐛 104 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,418 | 🐛 105 | 📅 2026-08-18
 
 <br>
 
@@ -1307,7 +1307,7 @@ Each website is included only once. Some websites can fall into multiple categor
 * [507 Movements](https://507movements.com/toc.html) - Website featuring animated mechanical movements, providing a visual understanding of various mechanical systems.
 * [MadeHow](https://www.madehow.com/) - Resource explaining and detailing the manufacturing processes of a wide variety of products.
 * [Comprehensive Structural Analysis Book](https://temple.manifoldapp.org/projects/structural-analysis) - Online resource offering a comprehensive book on structural analysis.
-* [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) ⭐ 1,661 | 🐛 22 | 📅 2024-09-24 - Awesome Mechanical Engineering Resources.
+* [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) ⭐ 1,662 | 🐛 22 | 📅 2024-09-24 - Awesome Mechanical Engineering Resources.
 * [Animated Dynamics](https://dynref.engr.illinois.edu/ref.html) - Interactive reference for visualizing dynamics simulations, aimed at helping users better understand complex mechanical systems.
 * [Wikimedia Commons - Engine Animations](https://commons.wikimedia.org/wiki/Category:Animations_of_engines) - A collection of animated images and videos that demonstrate the functioning of various types of engines, from combustion to electric.
 * [Mechanisms/menu-gear](https://www.mekanizmalar.com/menu-gear.html) - Gear mechanisms animated.
@@ -1350,7 +1350,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 * [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
-* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,211 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
+* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,267 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
 * [Menimagerie](https://www.menimagerie.com/) - Explore concepts in theoretical computer science, from the number system to Cantor infinities, Godel's theorems, and automat.
 * [Computer Science Library](https://www.compscilib.com/) - Platform aiding in mastering concepts in computer science and math courses with automated step-by-step solutions and practice problems.
@@ -1406,7 +1406,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 * [PromptPerfect](https://promptperfect.jina.ai/) - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs), and LMOps.
 * [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
-* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,291 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
+* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,293 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
 * [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
 * [OpenAI Cookbook](https://cookbook.openai.com/) - Cookbook by OpenAI providing practical guides for working with AI.
 * [Prompting Guide](https://www.promptingguide.ai/) - Resource for creating effective prompts for AI models.
@@ -1515,7 +1515,7 @@ Each website is included only once. Some websites can fall into multiple categor
 #### APIs
 
 * [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
-* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 466,509 | 🐛 1,707 | 🌐 Python | 📅 2026-08-19 - Collective list of free APIs for use in software and web development
+* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 467,504 | 🐛 1,717 | 🌐 Python | 📅 2026-08-19 - Collective list of free APIs for use in software and web development
 * [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 * [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
 * [Stripe API Documentation](https://stripe.com/docs/api) - API documentation of Stripe
@@ -1671,8 +1671,8 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Privacy
 
-* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,797 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-20 - Privacy and security-related browser extensions.
-* [Nothing Private](https://www.nothingprivate.ml/) - Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it [here](https://github.com/gautamkrishnar/nothing-private) ⭐ 2,282 | 🐛 4 | 🌐 JavaScript | 📅 2025-12-09.
+* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,794 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-20 - Privacy and security-related browser extensions.
+* [Nothing Private](https://www.nothingprivate.ml/) - Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it [here](https://github.com/gautamkrishnar/nothing-private) ⭐ 2,283 | 🐛 4 | 🌐 JavaScript | 📅 2025-12-09.
 * [ToS;DR](https://tosdr.org/) - Terms of Service; Didn't Read (short: ToS;DR).
 * [TrustPage](https://trustpage.com/directory) - Find and compare security policies for thousands of companies to choose the right software and services based on security policies sourced from around the web.
 * [Cookiepedia](https://cookiepedia.co.uk/) - The largest database of pre-categorized cookies and online tracking technologies.
@@ -1710,7 +1710,7 @@ Each website is included only once. Some websites can fall into multiple categor
 * [Degooglisons Internet](https://degooglisons-internet.org/en/) - Alternatives to FAANG.
 * [AccountKiller](https://www.accountkiller.com/en/home) - AccountKiller collects direct links and deleting instructions to make account termination easy.
 * [JustDeleteMe](https://backgroundchecks.org/justdeleteme/) - A directory of direct links to delete your account from web services.
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,092 | 🐛 758 | 🌐 Java | 📅 2026-08-18 - Ad-free app for watching YouTube videos on Android TV boxes.
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,133 | 🐛 768 | 🌐 Java | 📅 2026-08-20 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [Libredirect](https://libredirect.github.io/) - Web extension that redirects YouTube, Twitter, Instagram requests to alternative privacy-friendly frontends and backends.
 
 ### Ad Blocker
@@ -1877,7 +1877,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Testing
 
 * [OWASP Fuzzing Project](https://owasp.org/www-community/Fuzzing) - The official page for the OWASP Fuzzing Project, which aims to improve the overall state of fuzzing tools, techniques, and processes.
-* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,898 | 🐛 10 | 📅 2024-04-03 - A curated list of fuzzing resources, including tools, tutorials, research papers, and more.
+* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,899 | 🐛 10 | 📅 2024-04-03 - A curated list of fuzzing resources, including tools, tutorials, research papers, and more.
 
 ### Regex
 
@@ -1905,7 +1905,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Programming Languages
 
-* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 394,837 | 🐛 81 | 🌐 Python | 📅 2026-08-18 - Free and open source programming books
+* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 394,886 | 🐛 81 | 🌐 Python | 📅 2026-08-18 - Free and open source programming books
 * [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 * [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
@@ -1983,14 +1983,14 @@ Each website is included only once. Some websites can fall into multiple categor
 
 * [CTF101](https://ctf101.org/) - Platform providing educational resources for those new to Capture The Flag competitions.
 * [CTFtime](https://ctftime.org/) - Archive of Capture The Flag events, teams, and timelines.
-* [Google CTF on GitHub](https://github.com/google/google-ctf) ⭐ 5,007 | 🐛 1 | 🌐 Python | 📅 2026-02-11 - Google's Capture The Flag competition resources available on GitHub.
+* [Google CTF on GitHub](https://github.com/google/google-ctf) ⭐ 5,008 | 🐛 1 | 🌐 Python | 📅 2026-02-11 - Google's Capture The Flag competition resources available on GitHub.
 * [Meusec CTF Resources](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/) - Meusec's collection of Capture The Flag (CTF) resources in cybersecurity.
 * [Trail of Bits - CTF Guide](https://trailofbits.github.io/ctf/) - Guide by Trail of Bits providing insights and tips for participating in Capture The Flag competitions.
 
 ### Projects
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 541,412 | 🐛 635 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
-* [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,384 | 🐛 229 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 541,696 | 🐛 635 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
+* [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,383 | 🐛 229 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 * [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 * [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
 
@@ -2114,12 +2114,12 @@ Each website is included only once. Some websites can fall into multiple categor
 
 # Contributing
 
-* If you are a site owner and believe that your site is not described accurately, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) ⭐ 1,247 | 🐛 79 | 📅 2026-05-28.
+* If you are a site owner and believe that your site is not described accurately, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) ⭐ 1,248 | 🐛 79 | 📅 2026-05-28.
 
-* If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) ⭐ 1,247 | 🐛 79 | 📅 2026-05-28.
+* If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) ⭐ 1,248 | 🐛 79 | 📅 2026-05-28.
 
 * If you want to add a new category or website:
-  * Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) ⭐ 1,247 | 🐛 79 | 📅 2026-05-28.
+  * Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) ⭐ 1,248 | 🐛 79 | 📅 2026-05-28.
   * Do not add a website if it is malicious, dangerous, illegal, etc. (you can check its security by running it through a program such as [VirusTotal](https://www.virustotal.com/gui/home)).
   * Do not add a website if it is merely for entertainment and not really useful for anything.
   * To avoid duplication, search whether the website is already included.
@@ -2147,8 +2147,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International](h
 
 **How to credit:**
 
-* You must add a link to this [GitHub main page](https://github.com/atakanaltok/awesome-useful-websites) ⭐ 1,247 | 🐛 79 | 📅 2026-05-28 in a relevant section visible to the user.
+* You must add a link to this [GitHub main page](https://github.com/atakanaltok/awesome-useful-websites) ⭐ 1,248 | 🐛 79 | 📅 2026-05-28 in a relevant section visible to the user.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
