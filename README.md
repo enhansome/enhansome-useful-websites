@@ -1,6 +1,6 @@
 # Awesome Useful Websites with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,410 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
 
 <br>
 
@@ -1304,10 +1304,10 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Mechanical Engineering
 
+* [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) ⭐ 1,668 | 🐛 22 | 📅 2024-09-24 - Awesome Mechanical Engineering Resources.
 * [507 Movements](https://507movements.com/toc.html) - Website featuring animated mechanical movements, providing a visual understanding of various mechanical systems.
 * [MadeHow](https://www.madehow.com/) - Resource explaining and detailing the manufacturing processes of a wide variety of products.
 * [Comprehensive Structural Analysis Book](https://temple.manifoldapp.org/projects/structural-analysis) - Online resource offering a comprehensive book on structural analysis.
-* [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) ⭐ 1,666 | 🐛 22 | 📅 2024-09-24 - Awesome Mechanical Engineering Resources.
 * [Animated Dynamics](https://dynref.engr.illinois.edu/ref.html) - Interactive reference for visualizing dynamics simulations, aimed at helping users better understand complex mechanical systems.
 * [Wikimedia Commons - Engine Animations](https://commons.wikimedia.org/wiki/Category:Animations_of_engines) - A collection of animated images and videos that demonstrate the functioning of various types of engines, from combustion to electric.
 * [Mechanisms/menu-gear](https://www.mekanizmalar.com/menu-gear.html) - Gear mechanisms animated.
@@ -1348,9 +1348,9 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Computer Science
 
+* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,379 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
-* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,376 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
 * [Menimagerie](https://www.menimagerie.com/) - Explore concepts in theoretical computer science, from the number system to Cantor infinities, Godel's theorems, and automat.
 * [Computer Science Library](https://www.compscilib.com/) - Platform aiding in mastering concepts in computer science and math courses with automated step-by-step solutions and practice problems.
@@ -1404,9 +1404,9 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### Prompt Engineering
 
+* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,288 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
 * [PromptPerfect](https://promptperfect.jina.ai/) - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs), and LMOps.
 * [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
-* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,288 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
 * [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
 * [OpenAI Cookbook](https://cookbook.openai.com/) - Cookbook by OpenAI providing practical guides for working with AI.
 * [Prompting Guide](https://www.promptingguide.ai/) - Resource for creating effective prompts for AI models.
@@ -1514,8 +1514,8 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### APIs
 
+* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 469,631 | 🐛 1,759 | 🌐 Python | 📅 2026-08-19 - Collective list of free APIs for use in software and web development
 * [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
-* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 469,488 | 🐛 1,756 | 🌐 Python | 📅 2026-08-19 - Collective list of free APIs for use in software and web development
 * [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 * [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
 * [Stripe API Documentation](https://stripe.com/docs/api) - API documentation of Stripe
@@ -1706,11 +1706,11 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### GAFA Alternatives
 
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,268 | 🐛 684 | 🌐 Java | 📅 2026-08-23 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [DeGoogle](https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores) - Huge list of alternatives to Google products. Privacy tips, tricks, and links.
 * [Degooglisons Internet](https://degooglisons-internet.org/en/) - Alternatives to FAANG.
 * [AccountKiller](https://www.accountkiller.com/en/home) - AccountKiller collects direct links and deleting instructions to make account termination easy.
 * [JustDeleteMe](https://backgroundchecks.org/justdeleteme/) - A directory of direct links to delete your account from web services.
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,253 | 🐛 684 | 🌐 Java | 📅 2026-08-23 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [Libredirect](https://libredirect.github.io/) - Web extension that redirects YouTube, Twitter, Instagram requests to alternative privacy-friendly frontends and backends.
 
 ### Ad Blocker
@@ -1905,7 +1905,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Programming Languages
 
-* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 395,116 | 🐛 85 | 🌐 Python | 📅 2026-08-18 - Free and open source programming books
+* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 395,133 | 🐛 85 | 🌐 Python | 📅 2026-08-18 - Free and open source programming books
 * [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 * [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
@@ -1981,15 +1981,15 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Capture the Flag
 
+* [Google CTF on GitHub](https://github.com/google/google-ctf) ⭐ 5,012 | 🐛 1 | 🌐 Python | 📅 2026-02-11 - Google's Capture The Flag competition resources available on GitHub.
 * [CTF101](https://ctf101.org/) - Platform providing educational resources for those new to Capture The Flag competitions.
 * [CTFtime](https://ctftime.org/) - Archive of Capture The Flag events, teams, and timelines.
-* [Google CTF on GitHub](https://github.com/google/google-ctf) ⭐ 5,012 | 🐛 1 | 🌐 Python | 📅 2026-02-11 - Google's Capture The Flag competition resources available on GitHub.
 * [Meusec CTF Resources](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/) - Meusec's collection of Capture The Flag (CTF) resources in cybersecurity.
 * [Trail of Bits - CTF Guide](https://trailofbits.github.io/ctf/) - Guide by Trail of Bits providing insights and tips for participating in Capture The Flag competitions.
 
 ### Projects
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 542,464 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 542,530 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
 * [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,383 | 🐛 229 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 * [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 * [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.

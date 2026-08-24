@@ -4,6 +4,125 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome MechEng",
+              "description": "Awesome Mechanical Engineering Resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61523266,
+                "language": null,
+                "last_commit": "2024-09-24T17:54:44Z",
+                "owner": "m2n037",
+                "repo": "awesome-mecheng",
+                "stars": 1668
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mechanical Engineering"
+        }
+      ],
+      "title": "Engineering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Source Society University - Computer Science",
+          "description": "Curriculum for computer science studies provided by the Open Source Society University.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19415064,
+            "language": "HTML",
+            "last_commit": "2026-07-14T05:38:25Z",
+            "owner": "ossu",
+            "repo": "computer-science",
+            "stars": 208379
+          }
+        }
+      ],
+      "title": "Computer Science"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MidJourney Styles and Keywords Reference",
+                  "description": "Styles and keywords for AI image generation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509949415,
+                    "language": null,
+                    "last_commit": "2025-04-11T06:05:47Z",
+                    "owner": "willwulfken",
+                    "repo": "MidJourney-Styles-and-Keywords-Reference",
+                    "stars": 12288
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Prompt Engineering"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLMs"
+        }
+      ],
+      "title": "AI/ML"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Public APIs on GitHub",
+                  "description": "Collective list of free APIs for use in software and web development",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54346799,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T21:44:19Z",
+                    "owner": "public-apis",
+                    "repo": "public-apis",
+                    "stars": 469631
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "APIs"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Back-End"
+        }
+      ],
+      "title": "Web Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Arkenfox User.js",
           "description": "Privacy and security-related browser extensions.",
@@ -32,6 +151,28 @@
             "repo": "nothing-private",
             "stars": 2284
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SmartTubeNext",
+              "description": "Ad-free app for watching YouTube videos on Android TV boxes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283211901,
+                "language": "Java",
+                "last_commit": "2026-08-23T17:01:09Z",
+                "owner": "yuliskov",
+                "repo": "SmartTube",
+                "stars": 32268
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GAFA Alternatives"
         }
       ],
       "title": "Privacy"
@@ -39,6 +180,49 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "EbookFoundation-Free-Programming-Books",
+          "description": "Free and open source programming books",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13491895,
+            "language": "Python",
+            "last_commit": "2026-08-18T14:16:15Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 395133
+          }
+        }
+      ],
+      "title": "Programming Languages"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google CTF on GitHub",
+              "description": "Google's Capture The Flag competition resources available on GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131317137,
+                "language": "Python",
+                "last_commit": "2026-02-11T13:11:18Z",
+                "owner": "google",
+                "repo": "google-ctf",
+                "stars": 5012
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Capture the Flag"
+        },
         {
           "children": [
             {
@@ -53,7 +237,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542464
+                "stars": 542530
               }
             },
             {
@@ -139,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:59:53.896Z",
+    "last_updated": "2026-08-24T14:14:30.272Z",
     "original_repository": "atakanaltok/awesome-useful-websites",
     "original_repository_id": 489265215,
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
