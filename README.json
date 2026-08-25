@@ -17,7 +17,7 @@
                 "last_commit": "2024-09-24T17:54:44Z",
                 "owner": "m2n037",
                 "repo": "awesome-mecheng",
-                "stars": 1668
+                "stars": 1669
               }
             }
           ],
@@ -43,7 +43,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208402
+            "stars": 208405
           }
         }
       ],
@@ -103,7 +103,7 @@
                     "last_commit": "2026-08-19T21:44:19Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 470010
+                    "stars": 470087
                   }
                 }
               ],
@@ -134,7 +134,7 @@
             "last_commit": "2026-08-20T03:10:01Z",
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12804
+            "stars": 12803
           }
         },
         {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-25T01:24:34Z",
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32302
+                "stars": 32309
               }
             }
           ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395173
+            "stars": 395180
           }
         }
       ],
@@ -237,7 +237,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542724
+                "stars": 542770
               }
             },
             {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:45.116Z",
+    "last_updated": "2026-08-25T08:54:58.258Z",
     "original_repository": "atakanaltok/awesome-useful-websites",
     "original_repository_id": 489265215,
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",

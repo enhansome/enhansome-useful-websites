@@ -1,6 +1,6 @@
 # Awesome Useful Websites with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,701 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,736 | 🐛 106 | 📅 2026-08-21
 
 <br>
 
@@ -1304,7 +1304,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Mechanical Engineering
 
-* [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) ⭐ 1,668 | 🐛 22 | 📅 2024-09-24 - Awesome Mechanical Engineering Resources.
+* [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) ⭐ 1,669 | 🐛 22 | 📅 2024-09-24 - Awesome Mechanical Engineering Resources.
 * [507 Movements](https://507movements.com/toc.html) - Website featuring animated mechanical movements, providing a visual understanding of various mechanical systems.
 * [MadeHow](https://www.madehow.com/) - Resource explaining and detailing the manufacturing processes of a wide variety of products.
 * [Comprehensive Structural Analysis Book](https://temple.manifoldapp.org/projects/structural-analysis) - Online resource offering a comprehensive book on structural analysis.
@@ -1348,7 +1348,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Computer Science
 
-* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,402 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
+* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,405 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
 * [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
@@ -1514,7 +1514,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### APIs
 
-* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 470,010 | 🐛 1,768 | 🌐 Python | 📅 2026-08-19 - Collective list of free APIs for use in software and web development
+* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 470,087 | 🐛 1,774 | 🌐 Python | 📅 2026-08-19 - Collective list of free APIs for use in software and web development
 * [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
 * [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 * [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
@@ -1671,7 +1671,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Privacy
 
-* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,804 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-20 - Privacy and security-related browser extensions.
+* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,803 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-20 - Privacy and security-related browser extensions.
 * [Nothing Private](https://www.nothingprivate.ml/) - Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it [here](https://github.com/gautamkrishnar/nothing-private) ⭐ 2,284 | 🐛 4 | 🌐 JavaScript | 📅 2025-12-09.
 * [ToS;DR](https://tosdr.org/) - Terms of Service; Didn't Read (short: ToS;DR).
 * [TrustPage](https://trustpage.com/directory) - Find and compare security policies for thousands of companies to choose the right software and services based on security policies sourced from around the web.
@@ -1706,7 +1706,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### GAFA Alternatives
 
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,302 | 🐛 676 | 🌐 Java | 📅 2026-08-25 - Ad-free app for watching YouTube videos on Android TV boxes.
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,309 | 🐛 667 | 🌐 Java | 📅 2026-08-25 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [DeGoogle](https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores) - Huge list of alternatives to Google products. Privacy tips, tricks, and links.
 * [Degooglisons Internet](https://degooglisons-internet.org/en/) - Alternatives to FAANG.
 * [AccountKiller](https://www.accountkiller.com/en/home) - AccountKiller collects direct links and deleting instructions to make account termination easy.
@@ -1905,7 +1905,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Programming Languages
 
-* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 395,173 | 🐛 87 | 🌐 Python | 📅 2026-08-18 - Free and open source programming books
+* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 395,180 | 🐛 88 | 🌐 Python | 📅 2026-08-18 - Free and open source programming books
 * [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 * [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
@@ -1989,7 +1989,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Projects
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 542,724 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 542,770 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
 * [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,383 | 🐛 229 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 * [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 * [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
