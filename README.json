@@ -43,7 +43,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208379
+            "stars": 208402
           }
         }
       ],
@@ -68,7 +68,7 @@
                     "last_commit": "2025-04-11T06:05:47Z",
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12288
+                    "stars": 12289
                   }
                 }
               ],
@@ -103,7 +103,7 @@
                     "last_commit": "2026-08-19T21:44:19Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 469631
+                    "stars": 470010
                   }
                 }
               ],
@@ -134,7 +134,7 @@
             "last_commit": "2026-08-20T03:10:01Z",
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12801
+            "stars": 12804
           }
         },
         {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 283211901,
                 "language": "Java",
-                "last_commit": "2026-08-23T17:01:09Z",
+                "last_commit": "2026-08-25T01:24:34Z",
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32268
+                "stars": 32302
               }
             }
           ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395133
+            "stars": 395173
           }
         }
       ],
@@ -237,7 +237,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542530
+                "stars": 542724
               }
             },
             {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:30.272Z",
+    "last_updated": "2026-08-25T06:05:45.116Z",
     "original_repository": "atakanaltok/awesome-useful-websites",
     "original_repository_id": 489265215,
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
