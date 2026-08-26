@@ -17,7 +17,7 @@
                 "last_commit": "2024-09-24T17:54:44Z",
                 "owner": "m2n037",
                 "repo": "awesome-mecheng",
-                "stars": 1669
+                "stars": 1672
               }
             }
           ],
@@ -43,7 +43,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208405
+            "stars": 208419
           }
         }
       ],
@@ -68,7 +68,7 @@
                     "last_commit": "2025-04-11T06:05:47Z",
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12289
+                    "stars": 12290
                   }
                 }
               ],
@@ -103,7 +103,7 @@
                     "last_commit": "2026-08-19T21:44:19Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 470087
+                    "stars": 470667
                   }
                 }
               ],
@@ -131,10 +131,10 @@
             "archived": false,
             "id": 82208127,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T03:10:01Z",
+            "last_commit": "2026-08-26T06:17:19Z",
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12803
+            "stars": 12808
           }
         },
         {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 283211901,
                 "language": "Java",
-                "last_commit": "2026-08-25T01:24:34Z",
+                "last_commit": "2026-08-26T00:25:39Z",
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32309
+                "stars": 32335
               }
             }
           ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395180
+            "stars": 395243
           }
         }
       ],
@@ -237,7 +237,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542770
+                "stars": 543053
               }
             },
             {
@@ -252,7 +252,7 @@
                 "last_commit": "2024-07-10T17:41:43Z",
                 "owner": "karan",
                 "repo": "Projects-Solutions",
-                "stars": 4383
+                "stars": 4384
               }
             }
           ],
@@ -278,7 +278,7 @@
             "last_commit": "2026-05-28T09:10:24Z",
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1253
+            "stars": 1254
           }
         },
         {
@@ -293,7 +293,7 @@
             "last_commit": "2026-05-28T09:10:24Z",
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1253
+            "stars": 1254
           }
         },
         {
@@ -313,7 +313,7 @@
                 "last_commit": "2026-05-28T09:10:24Z",
                 "owner": "atakanaltok",
                 "repo": "awesome-useful-websites",
-                "stars": 1253
+                "stars": 1254
               }
             }
           ]
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:54:58.258Z",
+    "last_updated": "2026-08-26T08:57:22.104Z",
     "original_repository": "atakanaltok/awesome-useful-websites",
     "original_repository_id": 489265215,
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
