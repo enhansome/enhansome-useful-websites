@@ -43,7 +43,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208419
+            "stars": 208452
           }
         }
       ],
@@ -100,10 +100,10 @@
                     "archived": false,
                     "id": 54346799,
                     "language": "Python",
-                    "last_commit": "2026-08-19T21:44:19Z",
+                    "last_commit": "2026-08-26T19:19:56Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 470667
+                    "stars": 471387
                   }
                 }
               ],
@@ -134,7 +134,7 @@
             "last_commit": "2026-08-26T06:17:19Z",
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12808
+            "stars": 12812
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2025-12-09T23:14:50Z",
             "owner": "gautamkrishnar",
             "repo": "nothing-private",
-            "stars": 2284
+            "stars": 2285
           }
         },
         {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 283211901,
                 "language": "Java",
-                "last_commit": "2026-08-26T00:25:39Z",
+                "last_commit": "2026-08-26T19:41:22Z",
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32335
+                "stars": 32367
               }
             }
           ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395243
+            "stars": 395318
           }
         }
       ],
@@ -237,7 +237,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543053
+                "stars": 543328
               }
             },
             {
@@ -278,7 +278,7 @@
             "last_commit": "2026-05-28T09:10:24Z",
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1254
+            "stars": 1256
           }
         },
         {
@@ -293,7 +293,7 @@
             "last_commit": "2026-05-28T09:10:24Z",
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1254
+            "stars": 1256
           }
         },
         {
@@ -313,7 +313,7 @@
                 "last_commit": "2026-05-28T09:10:24Z",
                 "owner": "atakanaltok",
                 "repo": "awesome-useful-websites",
-                "stars": 1254
+                "stars": 1256
               }
             }
           ]
@@ -323,9 +323,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:57:22.104Z",
-    "original_repository": "atakanaltok/awesome-useful-websites",
-    "original_repository_id": 489265215,
+    "last_updated": "2026-08-27T12:10:01.620Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 489265215,
+      "language": null,
+      "last_commit": "2026-05-28T09:10:24Z",
+      "owner": "atakanaltok",
+      "repo": "awesome-useful-websites",
+      "stars": 1256
+    },
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
     "enhanced_repository": "enhansome/enhansome-useful-websites",
     "enhanced_repository_description": null,
