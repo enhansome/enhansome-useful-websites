@@ -43,7 +43,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208452
+            "stars": 208468
           }
         }
       ],
@@ -103,7 +103,7 @@
                     "last_commit": "2026-08-26T19:19:56Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 471387
+                    "stars": 471627
                   }
                 }
               ],
@@ -134,7 +134,7 @@
             "last_commit": "2026-08-26T06:17:19Z",
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12812
+            "stars": 12810
           }
         },
         {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 283211901,
                 "language": "Java",
-                "last_commit": "2026-08-26T19:41:22Z",
+                "last_commit": "2026-08-27T13:29:58Z",
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32367
+                "stars": 32377
               }
             }
           ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395318
+            "stars": 395350
           }
         }
       ],
@@ -215,7 +215,7 @@
                 "last_commit": "2026-02-11T13:11:18Z",
                 "owner": "google",
                 "repo": "google-ctf",
-                "stars": 5012
+                "stars": 5013
               }
             }
           ],
@@ -237,7 +237,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543328
+                "stars": 543414
               }
             },
             {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:01.620Z",
+    "last_updated": "2026-08-27T19:02:35.327Z",
     "original_repository_info": {
       "archived": false,
       "id": 489265215,
