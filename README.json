@@ -17,8 +17,9 @@
                 "last_commit": "2024-09-24T17:54:44Z",
                 "owner": "m2n037",
                 "repo": "awesome-mecheng",
-                "stars": 1672
-              }
+                "stars": 1673
+              },
+              "first_seen": "2026-08-28T20:10:36.375Z"
             }
           ],
           "description": null,
@@ -43,8 +44,9 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208468
-          }
+            "stars": 208479
+          },
+          "first_seen": "2026-08-28T20:10:36.375Z"
         }
       ],
       "title": "Computer Science"
@@ -69,7 +71,8 @@
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
                     "stars": 12290
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:36.375Z"
                 }
               ],
               "description": null,
@@ -103,8 +106,9 @@
                     "last_commit": "2026-08-26T19:19:56Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 471627
-                  }
+                    "stars": 472261
+                  },
+                  "first_seen": "2026-08-28T20:10:36.375Z"
                 }
               ],
               "description": null,
@@ -134,8 +138,9 @@
             "last_commit": "2026-08-26T06:17:19Z",
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12810
-          }
+            "stars": 12814
+          },
+          "first_seen": "2026-08-28T20:10:36.375Z"
         },
         {
           "node_type": "item",
@@ -149,8 +154,9 @@
             "last_commit": "2025-12-09T23:14:50Z",
             "owner": "gautamkrishnar",
             "repo": "nothing-private",
-            "stars": 2285
-          }
+            "stars": 2286
+          },
+          "first_seen": "2026-08-28T20:10:36.375Z"
         },
         {
           "children": [
@@ -163,11 +169,12 @@
                 "archived": false,
                 "id": 283211901,
                 "language": "Java",
-                "last_commit": "2026-08-27T13:29:58Z",
+                "last_commit": "2026-08-27T23:54:56Z",
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32377
-              }
+                "stars": 32396
+              },
+              "first_seen": "2026-08-28T20:10:36.375Z"
             }
           ],
           "description": null,
@@ -192,8 +199,9 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395350
-          }
+            "stars": 395456
+          },
+          "first_seen": "2026-08-28T20:10:36.375Z"
         }
       ],
       "title": "Programming Languages"
@@ -215,8 +223,9 @@
                 "last_commit": "2026-02-11T13:11:18Z",
                 "owner": "google",
                 "repo": "google-ctf",
-                "stars": 5013
-              }
+                "stars": 5014
+              },
+              "first_seen": "2026-08-28T20:10:36.375Z"
             }
           ],
           "description": null,
@@ -237,8 +246,9 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543414
-              }
+                "stars": 543670
+              },
+              "first_seen": "2026-08-28T20:10:36.375Z"
             },
             {
               "node_type": "item",
@@ -252,8 +262,9 @@
                 "last_commit": "2024-07-10T17:41:43Z",
                 "owner": "karan",
                 "repo": "Projects-Solutions",
-                "stars": 4384
-              }
+                "stars": 4385
+              },
+              "first_seen": "2026-08-28T20:10:36.375Z"
             }
           ],
           "description": null,
@@ -278,8 +289,9 @@
             "last_commit": "2026-05-28T09:10:24Z",
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1256
-          }
+            "stars": 1258
+          },
+          "first_seen": "2026-08-28T20:10:36.375Z"
         },
         {
           "node_type": "item",
@@ -293,8 +305,9 @@
             "last_commit": "2026-05-28T09:10:24Z",
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1256
-          }
+            "stars": 1258
+          },
+          "first_seen": "2026-08-28T20:10:36.375Z"
         },
         {
           "node_type": "group",
@@ -313,8 +326,9 @@
                 "last_commit": "2026-05-28T09:10:24Z",
                 "owner": "atakanaltok",
                 "repo": "awesome-useful-websites",
-                "stars": 1256
-              }
+                "stars": 1258
+              },
+              "first_seen": "2026-08-28T20:10:36.375Z"
             }
           ]
         }
@@ -323,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:02:35.327Z",
+    "last_updated": "2026-08-28T20:10:36.375Z",
     "original_repository_info": {
       "archived": false,
       "id": 489265215,
@@ -331,7 +345,7 @@
       "last_commit": "2026-05-28T09:10:24Z",
       "owner": "atakanaltok",
       "repo": "awesome-useful-websites",
-      "stars": 1256
+      "stars": 1258
     },
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
     "enhanced_repository": "enhansome/enhansome-useful-websites",
