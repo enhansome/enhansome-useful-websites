@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Mechanical Engineering Resources",
+                "homepage": null,
                 "id": 61523266,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-24T17:54:44Z",
+                "open_issues": 22,
                 "owner": "m2n037",
                 "repo": "awesome-mecheng",
-                "stars": 1673
+                "stars": 1674,
+                "topics": [
+                  "altair",
+                  "ansys",
+                  "control-engineering",
+                  "engineering",
+                  "finite-element-analysis",
+                  "gate",
+                  "lsdyna",
+                  "mechanical-engineering",
+                  "mechanics",
+                  "robotics",
+                  "robotics-competition",
+                  "unigraphics"
+                ]
               },
               "first_seen": "2026-08-28T20:10:36.375Z"
             }
@@ -39,12 +57,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "homepage": "https://cs.ossu.dev",
             "id": 19415064,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-14T05:38:25Z",
+            "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208479
+            "stars": 208490,
+            "topics": [
+              "awesome-list",
+              "computer-science",
+              "courses",
+              "curriculum"
+            ]
           },
           "first_seen": "2026-08-28T20:10:36.375Z"
         }
@@ -65,12 +93,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
+                    "homepage": null,
                     "id": 509949415,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-04-11T06:05:47Z",
+                    "open_issues": 1,
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12290
+                    "stars": 12290,
+                    "topics": [
+                      "ai",
+                      "ai-art",
+                      "ai-research",
+                      "analysis",
+                      "artificial-intelligence",
+                      "artificial-neural-networks",
+                      "encyclopedia",
+                      "guide",
+                      "guidebook",
+                      "keywords",
+                      "manual",
+                      "midjourney",
+                      "neural-network",
+                      "prompt",
+                      "promptory",
+                      "reference",
+                      "styles"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:36.375Z"
                 }
@@ -101,12 +152,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collective list of free APIs",
+                    "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
                     "id": 54346799,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T19:19:56Z",
+                    "open_issues": 1809,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 472261
+                    "stars": 472422,
+                    "topics": [
+                      "api",
+                      "apis",
+                      "dataset",
+                      "development",
+                      "free",
+                      "list",
+                      "lists",
+                      "open-source",
+                      "public",
+                      "public-api",
+                      "public-apis",
+                      "resources",
+                      "software"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:36.375Z"
                 }
@@ -133,12 +203,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening",
+            "homepage": null,
             "id": 82208127,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:17:19Z",
+            "open_issues": 19,
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12814
+            "stars": 12815,
+            "topics": [
+              "anti-fingerprinting",
+              "anti-tracking",
+              "arkenfox",
+              "firefox",
+              "mozilla",
+              "privacy",
+              "security",
+              "settings"
+            ]
           },
           "first_seen": "2026-08-28T20:10:36.375Z"
         },
@@ -149,12 +233,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml",
+            "homepage": "https://nothingprivate.gkr.pw",
             "id": 76684607,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-09T23:14:50Z",
+            "open_issues": 4,
             "owner": "gautamkrishnar",
             "repo": "nothing-private",
-            "stars": 2286
+            "stars": 2286,
+            "topics": [
+              "browser-fingerprinting",
+              "browsers",
+              "fingerprinting",
+              "google-analytics",
+              "hacktoberfest",
+              "icognito-mode",
+              "privacy",
+              "private-browsing",
+              "proof-of-concept",
+              "security",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T20:10:36.375Z"
         },
@@ -167,12 +268,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browse media content with your own rules on Android TV",
+                "homepage": "https://smarttubeapp.github.io",
                 "id": 283211901,
                 "language": "Java",
-                "last_commit": "2026-08-27T23:54:56Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:36:51Z",
+                "open_issues": 655,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32396
+                "stars": 32407,
+                "topics": [
+                  "android",
+                  "android-tv",
+                  "android-tv-box",
+                  "java",
+                  "kotlin",
+                  "retrofit2",
+                  "rxjava-android"
+                ]
               },
               "first_seen": "2026-08-28T20:10:36.375Z"
             }
@@ -194,12 +308,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395456
+            "stars": 395483,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-28T20:10:36.375Z"
         }
@@ -218,12 +343,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google CTF",
+                "homepage": "https://g.co/ctf",
                 "id": 131317137,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-11T13:11:18Z",
+                "open_issues": 1,
                 "owner": "google",
                 "repo": "google-ctf",
-                "stars": 5014
+                "stars": 5014,
+                "topics": [
+                  "ctf",
+                  "ctf-challenges",
+                  "google",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:36.375Z"
             }
@@ -241,12 +376,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Master programming by recreating your favorite technologies from scratch.",
+                "homepage": "https://codecrafters.io",
                 "id": 132750724,
                 "language": "Markdown",
+                "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
+                "open_issues": 639,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543670
+                "stars": 543737,
+                "topics": [
+                  "awesome-list",
+                  "free",
+                  "programming",
+                  "tutorial-code",
+                  "tutorial-exercises",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T20:10:36.375Z"
             },
@@ -257,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)",
+                "homepage": null,
                 "id": 11791030,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-10T17:41:43Z",
+                "open_issues": 229,
                 "owner": "karan",
                 "repo": "Projects-Solutions",
-                "stars": 4385
+                "stars": 4384,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:36.375Z"
             }
@@ -284,12 +436,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hand-curated list of awesome and useful websites",
+            "homepage": null,
             "id": 489265215,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-05-28T09:10:24Z",
+            "open_issues": 87,
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1258
+            "stars": 1258,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "curated",
+              "curated-list",
+              "curated-lists",
+              "list",
+              "lists",
+              "resource",
+              "resources",
+              "site",
+              "sites",
+              "useful",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T20:10:36.375Z"
         },
@@ -300,12 +472,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hand-curated list of awesome and useful websites",
+            "homepage": null,
             "id": 489265215,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-05-28T09:10:24Z",
+            "open_issues": 87,
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1258
+            "stars": 1258,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "curated",
+              "curated-list",
+              "curated-lists",
+              "list",
+              "lists",
+              "resource",
+              "resources",
+              "site",
+              "sites",
+              "useful",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T20:10:36.375Z"
         },
@@ -321,12 +513,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hand-curated list of awesome and useful websites",
+                "homepage": null,
                 "id": 489265215,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-28T09:10:24Z",
+                "open_issues": 87,
                 "owner": "atakanaltok",
                 "repo": "awesome-useful-websites",
-                "stars": 1258
+                "stars": 1258,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "curated",
+                  "curated-list",
+                  "curated-lists",
+                  "list",
+                  "lists",
+                  "resource",
+                  "resources",
+                  "site",
+                  "sites",
+                  "useful",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T20:10:36.375Z"
             }
@@ -337,15 +549,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:36.375Z",
+    "last_updated": "2026-08-29T04:33:09.108Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Hand-curated list of awesome and useful websites",
+      "homepage": null,
       "id": 489265215,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-05-28T09:10:24Z",
+      "open_issues": 87,
       "owner": "atakanaltok",
       "repo": "awesome-useful-websites",
-      "stars": 1258
+      "stars": 1258,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "curated",
+        "curated-list",
+        "curated-lists",
+        "list",
+        "lists",
+        "resource",
+        "resources",
+        "site",
+        "sites",
+        "useful",
+        "website"
+      ]
     },
     "original_repository_sha": "f16cab3e26ba1e83210d0dde0ed95d88f8da034a",
     "enhanced_repository": "enhansome/enhansome-useful-websites",
