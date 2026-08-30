@@ -66,7 +66,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208516,
+            "stars": 208552,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -102,7 +102,7 @@
                     "open_issues": 1,
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12290,
+                    "stars": 12289,
                     "topics": [
                       "ai",
                       "ai-art",
@@ -158,10 +158,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T19:19:56Z",
-                    "open_issues": 1819,
+                    "open_issues": 1834,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 472628,
+                    "stars": 473085,
                     "topics": [
                       "api",
                       "apis",
@@ -212,7 +212,7 @@
             "open_issues": 19,
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12814,
+            "stars": 12816,
             "topics": [
               "anti-fingerprinting",
               "anti-tracking",
@@ -273,11 +273,11 @@
                 "id": 283211901,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-29T01:36:51Z",
-                "open_issues": 654,
+                "last_commit": "2026-08-29T21:19:57Z",
+                "open_issues": 661,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32414,
+                "stars": 32443,
                 "topics": [
                   "android",
                   "android-tv",
@@ -313,11 +313,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-29T12:26:19Z",
-            "open_issues": 82,
+            "last_commit": "2026-08-30T08:24:39Z",
+            "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395515,
+            "stars": 395578,
             "topics": [
               "books",
               "education",
@@ -385,7 +385,7 @@
                 "open_issues": 639,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543835,
+                "stars": 544003,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -445,7 +445,7 @@
             "open_issues": 88,
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1258,
+            "stars": 1259,
             "topics": [
               "awesome",
               "awesome-list",
@@ -481,7 +481,7 @@
             "open_issues": 88,
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1258,
+            "stars": 1259,
             "topics": [
               "awesome",
               "awesome-list",
@@ -522,7 +522,7 @@
                 "open_issues": 88,
                 "owner": "atakanaltok",
                 "repo": "awesome-useful-websites",
-                "stars": 1258,
+                "stars": 1259,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:48:21.650Z",
+    "last_updated": "2026-08-30T13:46:27.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
@@ -561,7 +561,7 @@
       "open_issues": 88,
       "owner": "atakanaltok",
       "repo": "awesome-useful-websites",
-      "stars": 1258,
+      "stars": 1259,
       "topics": [
         "awesome",
         "awesome-list",

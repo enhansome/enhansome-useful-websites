@@ -1,6 +1,6 @@
 # Awesome Useful Websites with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,019 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,326 | 🐛 105 | 📅 2026-08-21
 
 <br>
 
@@ -1348,7 +1348,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Computer Science
 
-* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,516 | 🐛 27 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
+* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 208,552 | 🐛 27 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
 * [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
@@ -1404,7 +1404,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### Prompt Engineering
 
-* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,290 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
+* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,289 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
 * [PromptPerfect](https://promptperfect.jina.ai/) - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs), and LMOps.
 * [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
 * [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
@@ -1514,7 +1514,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### APIs
 
-* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 472,628 | 🐛 1,819 | 🌐 Python | 📅 2026-08-26 - Collective list of free APIs for use in software and web development
+* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 473,085 | 🐛 1,834 | 🌐 Python | 📅 2026-08-26 - Collective list of free APIs for use in software and web development
 * [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
 * [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 * [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
@@ -1671,7 +1671,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Privacy
 
-* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,814 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-26 - Privacy and security-related browser extensions.
+* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,816 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-26 - Privacy and security-related browser extensions.
 * [Nothing Private](https://www.nothingprivate.ml/) - Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it [here](https://github.com/gautamkrishnar/nothing-private) ⭐ 2,286 | 🐛 4 | 🌐 JavaScript | 📅 2025-12-09.
 * [ToS;DR](https://tosdr.org/) - Terms of Service; Didn't Read (short: ToS;DR).
 * [TrustPage](https://trustpage.com/directory) - Find and compare security policies for thousands of companies to choose the right software and services based on security policies sourced from around the web.
@@ -1706,7 +1706,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### GAFA Alternatives
 
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,414 | 🐛 654 | 🌐 Java | 📅 2026-08-29 - Ad-free app for watching YouTube videos on Android TV boxes.
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 32,443 | 🐛 661 | 🌐 Java | 📅 2026-08-29 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [DeGoogle](https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores) - Huge list of alternatives to Google products. Privacy tips, tricks, and links.
 * [Degooglisons Internet](https://degooglisons-internet.org/en/) - Alternatives to FAANG.
 * [AccountKiller](https://www.accountkiller.com/en/home) - AccountKiller collects direct links and deleting instructions to make account termination easy.
@@ -1877,7 +1877,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Testing
 
 * [OWASP Fuzzing Project](https://owasp.org/www-community/Fuzzing) - The official page for the OWASP Fuzzing Project, which aims to improve the overall state of fuzzing tools, techniques, and processes.
-* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,905 | 🐛 10 | 📅 2024-04-03 - A curated list of fuzzing resources, including tools, tutorials, research papers, and more.
+* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,908 | 🐛 10 | 📅 2024-04-03 - A curated list of fuzzing resources, including tools, tutorials, research papers, and more.
 
 ### Regex
 
@@ -1905,7 +1905,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Programming Languages
 
-* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 395,515 | 🐛 82 | 🌐 Python | 📅 2026-08-29 - Free and open source programming books
+* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 395,578 | 🐛 81 | 🌐 Python | 📅 2026-08-30 - Free and open source programming books
 * [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 * [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
@@ -1989,7 +1989,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Projects
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 543,835 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 544,003 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
 * [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,384 | 🐛 229 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 * [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 * [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
@@ -2114,12 +2114,12 @@ Each website is included only once. Some websites can fall into multiple categor
 
 # Contributing
 
-* If you are a site owner and believe that your site is not described accurately, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) ⭐ 1,258 | 🐛 88 | 📅 2026-05-28.
+* If you are a site owner and believe that your site is not described accurately, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) ⭐ 1,259 | 🐛 88 | 📅 2026-05-28.
 
-* If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) ⭐ 1,258 | 🐛 88 | 📅 2026-05-28.
+* If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues) ⭐ 1,259 | 🐛 88 | 📅 2026-05-28.
 
 * If you want to add a new category or website:
-  * Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) ⭐ 1,258 | 🐛 88 | 📅 2026-05-28.
+  * Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) ⭐ 1,259 | 🐛 88 | 📅 2026-05-28.
   * Do not add a website if it is malicious, dangerous, illegal, etc. (you can check its security by running it through a program such as [VirusTotal](https://www.virustotal.com/gui/home)).
   * Do not add a website if it is merely for entertainment and not really useful for anything.
   * To avoid duplication, search whether the website is already included.
@@ -2147,8 +2147,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International](h
 
 **How to credit:**
 
-* You must add a link to this [GitHub main page](https://github.com/atakanaltok/awesome-useful-websites) ⭐ 1,258 | 🐛 88 | 📅 2026-05-28 in a relevant section visible to the user.
+* You must add a link to this [GitHub main page](https://github.com/atakanaltok/awesome-useful-websites) ⭐ 1,259 | 🐛 88 | 📅 2026-05-28 in a relevant section visible to the user.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
