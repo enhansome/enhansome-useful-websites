@@ -66,7 +66,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208607,
+            "stars": 208632,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -102,7 +102,7 @@
                     "open_issues": 1,
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12291,
+                    "stars": 12290,
                     "topics": [
                       "ai",
                       "ai-art",
@@ -157,11 +157,11 @@
                     "id": 54346799,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T20:26:11Z",
-                    "open_issues": 1856,
+                    "last_commit": "2026-09-02T02:23:53Z",
+                    "open_issues": 1848,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 474063,
+                    "stars": 474435,
                     "topics": [
                       "api",
                       "apis",
@@ -212,7 +212,7 @@
             "open_issues": 19,
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12823,
+            "stars": 12825,
             "topics": [
               "anti-fingerprinting",
               "anti-tracking",
@@ -274,10 +274,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-09-01T02:01:38Z",
-                "open_issues": 670,
+                "open_issues": 671,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 32515,
+                "stars": 32539,
                 "topics": [
                   "android",
                   "android-tv",
@@ -314,10 +314,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-01T09:12:19Z",
-            "open_issues": 82,
+            "open_issues": 84,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395727,
+            "stars": 395797,
             "topics": [
               "books",
               "education",
@@ -352,7 +352,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "google-ctf",
-                "stars": 5018,
+                "stars": 5019,
                 "topics": [
                   "ctf",
                   "ctf-challenges",
@@ -385,7 +385,7 @@
                 "open_issues": 640,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 544489,
+                "stars": 544728,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -445,7 +445,7 @@
             "open_issues": 87,
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1261,
+            "stars": 1263,
             "topics": [
               "awesome",
               "awesome-list",
@@ -481,7 +481,7 @@
             "open_issues": 87,
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1261,
+            "stars": 1263,
             "topics": [
               "awesome",
               "awesome-list",
@@ -522,7 +522,7 @@
                 "open_issues": 87,
                 "owner": "atakanaltok",
                 "repo": "awesome-useful-websites",
-                "stars": 1261,
+                "stars": 1263,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:27:46.294Z",
+    "last_updated": "2026-09-02T12:44:06.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
@@ -561,7 +561,7 @@
       "open_issues": 87,
       "owner": "atakanaltok",
       "repo": "awesome-useful-websites",
-      "stars": 1261,
+      "stars": 1263,
       "topics": [
         "awesome",
         "awesome-list",
