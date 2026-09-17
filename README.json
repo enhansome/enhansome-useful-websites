@@ -66,7 +66,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209053,
+            "stars": 209077,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -158,10 +158,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-15T12:21:13Z",
-                    "open_issues": 1945,
+                    "open_issues": 1953,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 480807,
+                    "stars": 481107,
                     "topics": [
                       "api",
                       "apis",
@@ -212,7 +212,7 @@
             "open_issues": 20,
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12851,
+            "stars": 12850,
             "topics": [
               "anti-fingerprinting",
               "anti-tracking",
@@ -242,7 +242,7 @@
             "open_issues": 4,
             "owner": "gautamkrishnar",
             "repo": "nothing-private",
-            "stars": 2290,
+            "stars": 2291,
             "topics": [
               "browser-fingerprinting",
               "browsers",
@@ -273,11 +273,11 @@
                 "id": 283211901,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-16T08:40:29Z",
-                "open_issues": 715,
+                "last_commit": "2026-09-17T02:00:54Z",
+                "open_issues": 716,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 33731,
+                "stars": 33789,
                 "topics": [
                   "android",
                   "android-tv",
@@ -317,7 +317,7 @@
             "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396948,
+            "stars": 397035,
             "topics": [
               "books",
               "education",
@@ -385,7 +385,7 @@
                 "open_issues": 643,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 547611,
+                "stars": 547819,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -445,7 +445,7 @@
             "open_issues": 100,
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1271,
+            "stars": 1272,
             "topics": [
               "awesome",
               "awesome-list",
@@ -481,7 +481,7 @@
             "open_issues": 100,
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1271,
+            "stars": 1272,
             "topics": [
               "awesome",
               "awesome-list",
@@ -522,7 +522,7 @@
                 "open_issues": 100,
                 "owner": "atakanaltok",
                 "repo": "awesome-useful-websites",
-                "stars": 1271,
+                "stars": 1272,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:26:56.467Z",
+    "last_updated": "2026-09-17T13:22:55.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
@@ -561,7 +561,7 @@
       "open_issues": 100,
       "owner": "atakanaltok",
       "repo": "awesome-useful-websites",
-      "stars": 1271,
+      "stars": 1272,
       "topics": [
         "awesome",
         "awesome-list",
