@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "m2n037",
                 "repo": "awesome-mecheng",
-                "stars": 1706,
+                "stars": 1707,
                 "topics": [
                   "altair",
                   "ansys",
@@ -66,7 +66,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209596,
+            "stars": 209626,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -99,10 +99,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2025-04-11T06:05:47Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12307,
+                    "stars": 12309,
                     "topics": [
                       "ai",
                       "ai-art",
@@ -158,10 +158,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-28T21:21:30Z",
-                    "open_issues": 1960,
+                    "open_issues": 1983,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 484274,
+                    "stars": 484567,
                     "topics": [
                       "api",
                       "apis",
@@ -212,7 +212,7 @@
             "open_issues": 20,
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12868,
+            "stars": 12870,
             "topics": [
               "anti-fingerprinting",
               "anti-tracking",
@@ -274,10 +274,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-09-28T22:19:20Z",
-                "open_issues": 750,
+                "open_issues": 751,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 34304,
+                "stars": 34360,
                 "topics": [
                   "android",
                   "android-tv",
@@ -314,10 +314,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 91,
+            "open_issues": 94,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398143,
+            "stars": 398193,
             "topics": [
               "books",
               "education",
@@ -352,7 +352,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "google-ctf",
-                "stars": 5031,
+                "stars": 5029,
                 "topics": [
                   "ctf",
                   "ctf-challenges",
@@ -382,10 +382,10 @@
                 "language": "Markdown",
                 "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
-                "open_issues": 646,
+                "open_issues": 667,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 550579,
+                "stars": 550805,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -413,7 +413,7 @@
                 "open_issues": 228,
                 "owner": "karan",
                 "repo": "Projects-Solutions",
-                "stars": 4389,
+                "stars": 4390,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:36.375Z"
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:49:11.017Z",
+    "last_updated": "2026-09-30T14:52:45.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
