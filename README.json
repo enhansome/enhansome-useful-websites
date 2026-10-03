@@ -66,7 +66,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209702,
+            "stars": 209707,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -158,10 +158,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-02T22:24:14Z",
-                    "open_issues": 1990,
+                    "open_issues": 2006,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 485599,
+                    "stars": 485701,
                     "topics": [
                       "api",
                       "apis",
@@ -274,10 +274,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-10-02T00:58:25Z",
-                "open_issues": 758,
+                "open_issues": 760,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 34451,
+                "stars": 34468,
                 "topics": [
                   "android",
                   "android-tv",
@@ -314,10 +314,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-02T19:35:16Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398352,
+            "stars": 398381,
             "topics": [
               "books",
               "education",
@@ -385,7 +385,7 @@
                 "open_issues": 666,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 551250,
+                "stars": 551311,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:26.820Z",
+    "last_updated": "2026-10-03T13:18:41.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
@@ -437,10 +437,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-28T09:10:24Z",
-      "open_issues": 118,
+      "open_issues": 120,
       "owner": "atakanaltok",
       "repo": "awesome-useful-websites",
-      "stars": 1280,
+      "stars": 1281,
       "topics": [
         "awesome",
         "awesome-list",

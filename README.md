@@ -1,6 +1,6 @@
 # Awesome Useful Websites with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,801 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,927 | 🐛 106 | 📅 2026-09-02
 
 <br>
 
@@ -1348,7 +1348,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Computer Science
 
-* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 209,702 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
+* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 209,707 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
 * [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
@@ -1514,7 +1514,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### APIs
 
-* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 485,599 | 🐛 1,990 | 🌐 Python | 📅 2026-10-02 - Collective list of free APIs for use in software and web development
+* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 485,701 | 🐛 2,006 | 🌐 Python | 📅 2026-10-02 - Collective list of free APIs for use in software and web development
 * [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
 * [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 * [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
@@ -1706,7 +1706,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### GAFA Alternatives
 
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 34,451 | 🐛 758 | 🌐 Java | 📅 2026-10-02 - Ad-free app for watching YouTube videos on Android TV boxes.
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 34,468 | 🐛 760 | 🌐 Java | 📅 2026-10-02 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [DeGoogle](https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores) - Huge list of alternatives to Google products. Privacy tips, tricks, and links.
 * [Degooglisons Internet](https://degooglisons-internet.org/en/) - Alternatives to FAANG.
 * [AccountKiller](https://www.accountkiller.com/en/home) - AccountKiller collects direct links and deleting instructions to make account termination easy.
@@ -1905,7 +1905,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Programming Languages
 
-* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 398,352 | 🐛 85 | 🌐 Python | 📅 2026-10-02 - Free and open source programming books
+* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 398,381 | 🐛 86 | 🌐 Python | 📅 2026-10-02 - Free and open source programming books
 * [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 * [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
@@ -1989,7 +1989,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Projects
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 551,250 | 🐛 666 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 551,311 | 🐛 666 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
 * [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,391 | 🐛 228 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 * [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 * [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
