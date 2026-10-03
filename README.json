@@ -66,7 +66,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209687,
+            "stars": 209702,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -157,11 +157,11 @@
                     "id": 54346799,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T21:21:39Z",
-                    "open_issues": 1994,
+                    "last_commit": "2026-10-02T22:24:14Z",
+                    "open_issues": 1990,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 485486,
+                    "stars": 485599,
                     "topics": [
                       "api",
                       "apis",
@@ -212,7 +212,7 @@
             "open_issues": 20,
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12866,
+            "stars": 12868,
             "topics": [
               "anti-fingerprinting",
               "anti-tracking",
@@ -274,10 +274,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-10-02T00:58:25Z",
-                "open_issues": 755,
+                "open_issues": 758,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 34430,
+                "stars": 34451,
                 "topics": [
                   "android",
                   "android-tv",
@@ -313,11 +313,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-02T19:35:16Z",
+            "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398311,
+            "stars": 398352,
             "topics": [
               "books",
               "education",
@@ -348,7 +348,7 @@
                 "id": 131317137,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T08:08:34Z",
+                "last_commit": "2026-10-02T16:02:10Z",
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "google-ctf",
@@ -385,7 +385,7 @@
                 "open_issues": 666,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 551168,
+                "stars": 551250,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -425,131 +425,10 @@
         }
       ],
       "title": "Coding Practice / Competitive Programming"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "If you are a site owner and believe that your site is not described accurately, please raise an issue",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hand-curated list of awesome and useful websites",
-            "homepage": null,
-            "id": 489265215,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-05-28T09:10:24Z",
-            "open_issues": 118,
-            "owner": "atakanaltok",
-            "repo": "awesome-useful-websites",
-            "stars": 1280,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "curated",
-              "curated-list",
-              "curated-lists",
-              "list",
-              "lists",
-              "resource",
-              "resources",
-              "site",
-              "sites",
-              "useful",
-              "website"
-            ]
-          },
-          "first_seen": "2026-08-28T20:10:36.375Z"
-        },
-        {
-          "node_type": "item",
-          "title": "If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please raise an issue",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hand-curated list of awesome and useful websites",
-            "homepage": null,
-            "id": 489265215,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-05-28T09:10:24Z",
-            "open_issues": 118,
-            "owner": "atakanaltok",
-            "repo": "awesome-useful-websites",
-            "stars": 1280,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "curated",
-              "curated-list",
-              "curated-lists",
-              "list",
-              "lists",
-              "resource",
-              "resources",
-              "site",
-              "sites",
-              "useful",
-              "website"
-            ]
-          },
-          "first_seen": "2026-08-28T20:10:36.375Z"
-        },
-        {
-          "node_type": "group",
-          "title": "If you want to add a new category or website:",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Create a pull request",
-              "description": ".",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Hand-curated list of awesome and useful websites",
-                "homepage": null,
-                "id": 489265215,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2026-05-28T09:10:24Z",
-                "open_issues": 118,
-                "owner": "atakanaltok",
-                "repo": "awesome-useful-websites",
-                "stars": 1280,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-lists",
-                  "curated",
-                  "curated-list",
-                  "curated-lists",
-                  "list",
-                  "lists",
-                  "resource",
-                  "resources",
-                  "site",
-                  "sites",
-                  "useful",
-                  "website"
-                ]
-              },
-              "first_seen": "2026-08-28T20:10:36.375Z"
-            }
-          ]
-        }
-      ],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:41:48.347Z",
+    "last_updated": "2026-10-03T05:10:26.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
