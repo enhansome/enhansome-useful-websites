@@ -66,7 +66,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209900,
+            "stars": 209903,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -102,7 +102,7 @@
                     "open_issues": 1,
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12310,
+                    "stars": 12309,
                     "topics": [
                       "ai",
                       "ai-art",
@@ -158,10 +158,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-05T22:52:00Z",
-                    "open_issues": 2027,
+                    "open_issues": 2035,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 486438,
+                    "stars": 486480,
                     "topics": [
                       "api",
                       "apis",
@@ -277,7 +277,7 @@
                 "open_issues": 769,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 34600,
+                "stars": 34607,
                 "topics": [
                   "android",
                   "android-tv",
@@ -317,7 +317,7 @@
             "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398581,
+            "stars": 398597,
             "topics": [
               "books",
               "education",
@@ -385,7 +385,7 @@
                 "open_issues": 668,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 551794,
+                "stars": 551832,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:53:25.113Z",
+    "last_updated": "2026-10-06T15:03:34.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
