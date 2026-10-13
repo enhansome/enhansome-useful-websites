@@ -1,6 +1,6 @@
 # Awesome Useful Websites with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,058 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,492 | 🐛 105 | 📅 2026-09-02
 
 <br>
 
@@ -1348,7 +1348,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Computer Science
 
-* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 209,910 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
+* [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) ⭐ 209,953 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - Curriculum for computer science studies provided by the Open Source Society University.
 * [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
 * [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
@@ -1404,7 +1404,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### Prompt Engineering
 
-* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,307 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
+* [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,311 | 🐛 1 | 📅 2025-04-11 - Styles and keywords for AI image generation.
 * [PromptPerfect](https://promptperfect.jina.ai/) - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs), and LMOps.
 * [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
 * [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
@@ -1514,7 +1514,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 #### APIs
 
-* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 487,892 | 🐛 2,126 | 🌐 Python | 📅 2026-10-11 - Collective list of free APIs for use in software and web development
+* [Public APIs on GitHub](https://github.com/public-apis/public-apis) ⭐ 488,297 | 🐛 2,133 | 🌐 Python | 📅 2026-10-13 - Collective list of free APIs for use in software and web development
 * [Public APIs Directory](https://publicapis.dev/) - Discover public APIs
 * [REST API Tutorial](https://www.restapitutorial.com/) - Learn REST
 * [Spotify API Documentation](https://developer.spotify.com/documentation/web-api) - API documentation of Spotify
@@ -1671,7 +1671,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Privacy
 
-* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,880 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-09 - Privacy and security-related browser extensions.
+* [Arkenfox User.js](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) ⭐ 12,884 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-09 - Privacy and security-related browser extensions.
 * [Nothing Private](https://www.nothingprivate.ml/) - Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it [here](https://github.com/gautamkrishnar/nothing-private) ⭐ 2,291 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-02.
 * [ToS;DR](https://tosdr.org/) - Terms of Service; Didn't Read (short: ToS;DR).
 * [TrustPage](https://trustpage.com/directory) - Find and compare security policies for thousands of companies to choose the right software and services based on security policies sourced from around the web.
@@ -1706,7 +1706,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### GAFA Alternatives
 
-* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 34,876 | 🐛 780 | 🌐 Java | 📅 2026-10-12 - Ad-free app for watching YouTube videos on Android TV boxes.
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) ⭐ 34,914 | 🐛 780 | 🌐 Java | 📅 2026-10-12 - Ad-free app for watching YouTube videos on Android TV boxes.
 * [DeGoogle](https://degoogle.jmoore.dev/#mobile-applications-mobile-apps-installable-from-stores) - Huge list of alternatives to Google products. Privacy tips, tricks, and links.
 * [Degooglisons Internet](https://degooglisons-internet.org/en/) - Alternatives to FAANG.
 * [AccountKiller](https://www.accountkiller.com/en/home) - AccountKiller collects direct links and deleting instructions to make account termination easy.
@@ -1905,7 +1905,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Programming Languages
 
-* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 398,846 | 🐛 81 | 🌐 Python | 📅 2026-10-12 - Free and open source programming books
+* [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 398,945 | 🐛 83 | 🌐 Python | 📅 2026-10-12 - Free and open source programming books
 * [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resource providing a quick whirlwind tour of various programming languages.
 * [eComputerNotes](https://ecomputernotes.com/) - Learning resource for online education, covering a wide range of computer science and programming topics.
@@ -1981,7 +1981,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Capture the Flag
 
-* [Google CTF on GitHub](https://github.com/google/google-ctf) ⭐ 5,046 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - Google's Capture The Flag competition resources available on GitHub.
+* [Google CTF on GitHub](https://github.com/google/google-ctf) ⭐ 5,048 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - Google's Capture The Flag competition resources available on GitHub.
 * [CTF101](https://ctf101.org/) - Platform providing educational resources for those new to Capture The Flag competitions.
 * [CTFtime](https://ctftime.org/) - Archive of Capture The Flag events, teams, and timelines.
 * [Meusec CTF Resources](https://www.meusec.com/ctf/capture-the-flags-in-cybersecurity/) - Meusec's collection of Capture The Flag (CTF) resources in cybersecurity.
@@ -1989,7 +1989,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Projects
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 552,746 | 🐛 675 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) ⭐ 552,980 | 🐛 675 | 🌐 Markdown | 📅 2026-07-14 - GitHub repository providing guides on building your favorite technologies from scratch.
 * [Projects-Solutions on GitHub](https://github.com/karan/Projects-Solutions) ⭐ 4,387 | 🐛 228 | 📅 2024-07-10 - GitHub repository providing project-based coding challenges for learning programming through practical applications.
 * [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 * [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
@@ -2151,4 +2151,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

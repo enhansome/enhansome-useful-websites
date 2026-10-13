@@ -66,7 +66,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209910,
+            "stars": 209953,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -102,7 +102,7 @@
                     "open_issues": 1,
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12307,
+                    "stars": 12311,
                     "topics": [
                       "ai",
                       "ai-art",
@@ -157,11 +157,11 @@
                     "id": 54346799,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T20:42:26Z",
-                    "open_issues": 2126,
+                    "last_commit": "2026-10-13T04:59:16Z",
+                    "open_issues": 2133,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 487892,
+                    "stars": 488297,
                     "topics": [
                       "api",
                       "apis",
@@ -212,7 +212,7 @@
             "open_issues": 21,
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12880,
+            "stars": 12884,
             "topics": [
               "anti-fingerprinting",
               "anti-tracking",
@@ -277,7 +277,7 @@
                 "open_issues": 780,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 34876,
+                "stars": 34914,
                 "topics": [
                   "android",
                   "android-tv",
@@ -314,10 +314,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-12T16:52:07Z",
-            "open_issues": 81,
+            "open_issues": 83,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398846,
+            "stars": 398945,
             "topics": [
               "books",
               "education",
@@ -352,7 +352,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "google-ctf",
-                "stars": 5046,
+                "stars": 5048,
                 "topics": [
                   "ctf",
                   "ctf-challenges",
@@ -385,7 +385,7 @@
                 "open_issues": 675,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 552746,
+                "stars": 552980,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:47:35.745Z",
+    "last_updated": "2026-10-13T15:53:32.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
@@ -437,7 +437,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-28T09:10:24Z",
-      "open_issues": 135,
+      "open_issues": 139,
       "owner": "atakanaltok",
       "repo": "awesome-useful-websites",
       "stars": 1290,
