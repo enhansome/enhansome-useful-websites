@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "m2n037",
                 "repo": "awesome-mecheng",
-                "stars": 1727,
+                "stars": 1728,
                 "topics": [
                   "altair",
                   "ansys",
@@ -66,7 +66,7 @@
             "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210139,
+            "stars": 210167,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -102,7 +102,7 @@
                     "open_issues": 1,
                     "owner": "willwulfken",
                     "repo": "MidJourney-Styles-and-Keywords-Reference",
-                    "stars": 12314,
+                    "stars": 12313,
                     "topics": [
                       "ai",
                       "ai-art",
@@ -158,10 +158,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-19T12:30:00Z",
-                    "open_issues": 2224,
+                    "open_issues": 2276,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 490379,
+                    "stars": 490727,
                     "topics": [
                       "api",
                       "apis",
@@ -209,10 +209,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-09T03:48:46Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "arkenfox",
             "repo": "user.js",
-            "stars": 12909,
+            "stars": 12911,
             "topics": [
               "anti-fingerprinting",
               "anti-tracking",
@@ -273,11 +273,11 @@
                 "id": 283211901,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-19T11:14:15Z",
+                "last_commit": "2026-10-19T20:50:08Z",
                 "open_issues": 787,
                 "owner": "yuliskov",
                 "repo": "SmartTube",
-                "stars": 35157,
+                "stars": 35213,
                 "topics": [
                   "android",
                   "android-tv",
@@ -313,11 +313,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-18T00:26:58Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-20T13:00:21Z",
+            "open_issues": 88,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399568,
+            "stars": 399652,
             "topics": [
               "books",
               "education",
@@ -352,7 +352,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "google-ctf",
-                "stars": 5051,
+                "stars": 5053,
                 "topics": [
                   "ctf",
                   "ctf-challenges",
@@ -385,7 +385,7 @@
                 "open_issues": 678,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 554529,
+                "stars": 554726,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:31:43.982Z",
+    "last_updated": "2026-10-20T13:31:13.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hand-curated list of awesome and useful websites",
@@ -437,10 +437,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-28T09:10:24Z",
-      "open_issues": 159,
+      "open_issues": 161,
       "owner": "atakanaltok",
       "repo": "awesome-useful-websites",
-      "stars": 1295,
+      "stars": 1297,
       "topics": [
         "awesome",
         "awesome-list",
